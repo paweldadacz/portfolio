@@ -69,6 +69,18 @@ On this site I would like to share my all gained experience
 </ul>
 </li>
 </ul>
+
+  <h1>Tech skills</h1>
+  <ul>
+  <li>Creating test cases</li>
+  <li>Reporting bugs</li>
+  <li>Java programming (OOP)</li>
+  <li>Maven</li>
+  <li>Selenium WebDriver</li>
+  <li>TestNG</li>
+  <li>Python programming basics</li>
+  <li>Virtualization</li>
+  </ul>
   
   <h1>Certificates</h1>
 <ul>
