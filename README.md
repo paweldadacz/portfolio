@@ -15,7 +15,8 @@ On this site I would like to share my all gained experience
   
 <h1>Tools</h1>
 <ul>
-<li> Project management and bug tracking 
+
+  <li> Project management and bug tracking 
 <ul>
 <li><b>Jira </b></li>
 <li><b>HP Quality Center </b></li>
@@ -23,38 +24,55 @@ On this site I would like to share my all gained experience
 <li><b>Redmine </b></li>
 </ul>
 </li>
-<li> Automation testing tools
+
+  <li> Automation testing tools
 <ul>
 <li><b>Katalon Studio </b></li>
 <li><b>QTP (UFT) </b></li>
 <li><b>Selenium IDE </b></li>
 </ul>
 </li>
-<li> IDEs
+
+  <li> IDEs Java
 <ul>
 <li><b>Intellij</b></li>
 <li><b>Eclipse</b></li>
 </ul>
 </li>
-<li> API Testing
+
+  <li> API Testing
 <ul>
 <li><b>Postman</b></li>
 <li><b>RestAssured</b></li>
 </ul>
 </li>
-<li> Virtualization
+
+  <li> Virtualization
 <ul>
 <li><b>Oracle VM VirtualBox</b></li>
 <li><b>Vmware Esxi</b></li>
 </ul>
 </li>
-<li> Other
+
+  <li> Operating systems
+<ul>
+<li><b>Windows</b></li>
+<li><b>Linux (Ubuntu, CentOS)</b></li>
+</ul>
+</li>  
+  
+  <li> Others
 <ul>
 <li><b>Jenkins</b></li>
 <li><b>Cucumber</b></li>
 <li><b>PostgreSQL</b></li>
 </ul>
 </li>
+</ul>
+  
+  <h1>Courses</h1>
+<ul>
+  <li><b>ISTQB Certified Tester FL</b> No. 52917</li>
 </ul>
   
 </html>
