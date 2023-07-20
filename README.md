@@ -1,6 +1,3 @@
-
-<h2> Portfolio </h2>
-
 <h1>About me</h1>
 My name is Pawel Dadacz. I became a Software Tester in 2017. I have done ISTQB certification.<br>
 I worked in industries such as banking, finance, insurance, pharmacy, telecomuunications and gas.<br>
